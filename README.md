@@ -459,6 +459,16 @@ In this experiment, the effect of fixing network parameters has been investigate
     </li>
 </ul>
 
+# Report
+
+<ul>
+  <li><strong>Link:</strong>
+    <ul>
+      <li><a href="https://github.com/ahedayat/Cars-Classification-with-EfficientNet-B0/blob/main/Report.pdf">Persian (page: 24-32)</a></li>
+    </ul>
+  </li>
+</ul>
+
 # References
 
 <ul>
