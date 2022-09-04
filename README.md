@@ -52,7 +52,7 @@
             <th>Median Number of Images in Each Class</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>Training</td>
             <td>196</td>
@@ -191,7 +191,7 @@ $$ LabelSmoothingCrossEntropy = { (1-\epsilon) ce(i) + \epsilon \sum\_{j \ne i}{
             <th>Minimum Learning Rate</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>LR-Scheduler Parameter</td>
             <td>Max</td>
@@ -232,7 +232,7 @@ In this experiment, the effect of fixing network parameters has been investigate
             <th>Unfixed</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>
                 <img src="./plots/all_fixed/learning_rate.png"  alt="LR changes for Fixed Experiment" width = "450rem" height = "300rem" >
@@ -259,7 +259,7 @@ In this experiment, the effect of fixing network parameters has been investigate
             <th>Unfixed</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>
                 <img src="./plots/all_fixed/loss_function.png"  alt="Loss changes for Fixed Experiment" width = "450rem" height = "300rem" >
@@ -286,7 +286,7 @@ In this experiment, the effect of fixing network parameters has been investigate
             <th>Unfixed</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>
                 <img src="./plots/all_fixed/accuracy.png"  alt="Accuracy changes for Fixed Experiment" width = "450rem" height = "300rem" >
@@ -312,7 +312,7 @@ In this experiment, the effect of fixing network parameters has been investigate
             <th>Accuracy</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>
                 Fixed
@@ -352,7 +352,7 @@ In this experiment, the effect of fixing network parameters has been investigate
             <th>Unfixed</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center margin-left: auto; margin-right: auto; text-align: center" border=0 align=center>
         <tr>
             <td>
                 <strong>Original Image</strong>
